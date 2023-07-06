@@ -5,7 +5,7 @@
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;>
   <a href="https://github.com/rafaelslopes1">
-    <img height=176 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelslopes1&show_icons=true&hide=stars&theme=transparent" />
+    <img height=176 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelslopes1&show_icons=true&hide=stars&theme=transparent&rank_icon=github" />
   </a>
   <a href="https://github.com/rafaelslopes1">
     <img height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelslopes1&layout=compact&theme=transparent&langs_count=8&card_width=320" />
