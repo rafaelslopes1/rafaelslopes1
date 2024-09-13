@@ -1,6 +1,6 @@
 ### Salve! Rafael Lopes aqui 🚀
 
-- 🔭 Atualmente estou trabalhando como Full-Stack
+- 🔭 Atualmente estou trabalhando como Back-end
 - 🌱 Sigo aperfeiçoando meus conhecimentos com Typescript e Node.js
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;>
