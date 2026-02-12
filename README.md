@@ -1,18 +1,17 @@
 # Olá!  
 
-Sou Rafael Lopes, engenheiro de computação apaixonado por backend e fotógrafo nas horas vagas. Gosto de construir APIs robustas que tornem a vida das pessoas mais simples e adoro explorar novos frameworks e linguagens. Minha missão é unir tecnologia e criatividade para transformar ideias em soluções que impactem o mundo.  
+Sou Rafael Lopes, engenheiro de computação apaixonado por backend. Gosto de construir APIs robustas que tornem a vida das pessoas mais simples e adoro explorar novos frameworks e linguagens. Minha missão é unir tecnologia e criatividade para transformar ideias em soluções que impactem o mundo.  
 
 ## O que estou fazendo  
 
-- 🔭 Atualmente trabalhando como desenvolvedor back-end, focado em Node.js e TypeScript.  
-- 📸 Nas horas vagas, capturo momentos e paisagens através da fotografia, tentando aplicar esse olhar artístico também no código.  
-- 🌱 Estudando constantemente novas tecnologias como NestJS, PrismaORM e Kubernetes.  
+- 🔭 Atualmente trabalhando como desenvolvedor back-end, focado em Node.js e TypeScript.   
+- 🌱 Estudando constantemente novas tecnologias como NestJS, Golang e Kubernetes.
 
 ## Tecnologias e ferramentas  
 
 Aqui estão algumas das ferramentas e linguagens com que trabalho:  
 
-- **Linguagens:** TypeScript, JavaScript, SQL  
+- **Linguagens:** TypeScript, JavaScript, SQL
 - **Frameworks:** Node.js (Fastify, NestJS), React  
 - **Banco de dados:** PostgreSQL  
 - **Outros:** Docker, PrismaORM, Git  
