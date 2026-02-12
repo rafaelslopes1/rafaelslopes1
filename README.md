@@ -11,10 +11,10 @@ Sou Rafael Lopes, engenheiro de computação apaixonado por backend. Gosto de co
 
 Aqui estão algumas das ferramentas e linguagens com que trabalho:  
 
-- **Linguagens:** TypeScript, JavaScript, SQL
-- **Frameworks:** Node.js (Fastify, NestJS), React  
-- **Banco de dados:** PostgreSQL  
-- **Outros:** Docker, PrismaORM, Git  
+- **Linguagens:** TypeScript, JavaScript, Python, SQL
+- **Frameworks:** Node.js (Express, Fastify, NestJS), React  
+- **Banco de dados:** PostgreSQL, MongoDB, SQLite
+- **Outros:** Docker, PrismaORM, Mongoose, Git  
 
 ## Projetos em destaque  
 
