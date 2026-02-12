@@ -14,7 +14,7 @@ Aqui estão algumas das ferramentas e linguagens com que trabalho:
 - **Linguagens:** TypeScript, JavaScript, Python, SQL
 - **Frameworks:** Node.js (Express, Fastify, NestJS), React  
 - **Banco de dados:** PostgreSQL, MongoDB, SQLite
-- **Outros:** Docker, PrismaORM, Mongoose, Git  
+- **Outros:** RabbitMQ, Docker, PrismaORM, Mongoose, Git
 
 ## Projetos em destaque  
 
