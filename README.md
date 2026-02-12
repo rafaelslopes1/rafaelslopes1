@@ -1,4 +1,4 @@
-# Olá! ᵤᵤ  
+# Olá!  
 
 Sou Rafael Lopes, engenheiro de computação apaixonado por backend e fotógrafo nas horas vagas. Gosto de construir APIs robustas que tornem a vida das pessoas mais simples e adoro explorar novos frameworks e linguagens. Minha missão é unir tecnologia e criatividade para transformar ideias em soluções que impactem o mundo.  
 
