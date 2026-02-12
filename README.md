@@ -1,29 +1,26 @@
-### Salve! Rafael Lopes aqui 🚀
+# Olá! ᵤᵤ  
 
-- 🔭 Atualmente estou trabalhando como Back-end
-- 🌱 Sigo aperfeiçoando meus conhecimentos com Typescript e Node.js
+Sou Rafael Lopes, engenheiro de computação apaixonado por backend e fotógrafo nas horas vagas. Gosto de construir APIs robustas que tornem a vida das pessoas mais simples e adoro explorar novos frameworks e linguagens. Minha missão é unir tecnologia e criatividade para transformar ideias em soluções que impactem o mundo.  
 
-<div style="display: flex; flex-direction: column; justify-content: space-between;>
-  <a href="https://github.com/rafaelslopes1">
-    <img height=176 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelslopes1&show_icons=true&hide=stars&theme=transparent&rank_icon=github" />
-  </a>
-  <a href="https://github.com/rafaelslopes1">
-    <img height=176 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelslopes1&layout=compact&theme=transparent&langs_count=8&card_width=320" />
-  </a>  
-</div>
+## O que estou fazendo  
 
-### Minhas tecnologias
+- 🔭 Atualmente trabalhando como desenvolvedor back-end, focado em Node.js e TypeScript.  
+- 📸 Nas horas vagas, capturo momentos e paisagens através da fotografia, tentando aplicar esse olhar artístico também no código.  
+- 🌱 Estudando constantemente novas tecnologias como NestJS, PrismaORM e Kubernetes.  
 
-<div style="display: flex; flex-direction: column;justify-content: center;">
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height=40 src="https://nestjs.com/img/logo-small.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height=40 src="https://www.svgrepo.com/download/331488/mongodb.svg" />
-  
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-          
+## Tecnologias e ferramentas  
+
+Aqui estão algumas das ferramentas e linguagens com que trabalho:  
+
+- **Linguagens:** TypeScript, JavaScript, SQL  
+- **Frameworks:** Node.js (Fastify, NestJS), React  
+- **Banco de dados:** PostgreSQL  
+- **Outros:** Docker, PrismaORM, Git  
+
+## Projetos em destaque  
+
+No topo do meu perfil você encontra alguns projetos que desenvolvi em cursos e desafios. Estou trabalhando em novos projetos autorais para publicar em breve. Fique à vontade para explorar os repositórios e abrir issues ou PRs!  
+
+## Conecte-se comigo  
+
+- [LinkedIn](https://www.linkedin.com/in/rafaelslopes1/)
